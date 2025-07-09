@@ -1,0 +1,2 @@
+strawberry-graphql[fastapi]
+uvicorn[standard]
